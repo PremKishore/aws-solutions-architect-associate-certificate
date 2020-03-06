@@ -69,7 +69,7 @@
 - can use Strong consistent read (read data after write less than 1 second), but not recommend
 - Each table in DynamoDB is limited to 20 global secondary indexes (default limit) and 5 local secondary indexes.
 - The maximum item size in DynamoDB is 400 KB
-
+- DynamoDB is schemaless hence it is not ACID Compliant
 ## Redshift
 
 ![Redshift](images/redshift.png)
