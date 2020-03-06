@@ -70,6 +70,8 @@
 - Each table in DynamoDB is limited to 20 global secondary indexes (default limit) and 5 local secondary indexes.
 - The maximum item size in DynamoDB is 400 KB
 - DynamoDB is schemaless hence it is not ACID Compliant
+- DynamoDB Accelerator (DAX) can have 9 read replicas.
+
 ## Redshift
 
 ![Redshift](images/redshift.png)
