@@ -15,6 +15,13 @@ Some Notes that help you to pass AWS Solutions Architect Associate Certificate E
 - [HA Architecture](HA-Architecture.md)
 - [Applications](Applications.md)
 - [Serverless](Serverless.md)
+- AWS global accelerator
+- Elastic Fabric Adapter
+- Elastic Network adapter
+- AWS ParallelCluster
+- Amazon FSx
+- AWS Dayasync
+- AWS Directory Service
 
 ## Online Courses
 
