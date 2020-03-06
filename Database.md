@@ -103,5 +103,8 @@
     - Redis
         - Multi-AZ
         - can backup and restore
+        - also suppor read replica upt 5
+        - acts as key-value data store
+        - used to deploy cloudformation stacks.
     - Memcached
         - scale horizontally
